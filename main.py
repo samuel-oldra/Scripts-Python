@@ -17,4 +17,5 @@
 # import operadores.logicos
 # import operadores.ternario
 
-import controle.if_1
+# import controle.if_1
+import controle.if_2
