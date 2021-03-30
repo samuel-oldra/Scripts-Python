@@ -11,4 +11,5 @@
 # import tipos.dicionario
 
 # import operadores.unarios
-import operadores.aritmeticos
+# import operadores.aritmeticos
+import operadores.relacionais
