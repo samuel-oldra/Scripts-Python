@@ -10,4 +10,5 @@
 # import tipos.conjuntos
 # import tipos.dicionario
 
-import operadores.unarios
+# import operadores.unarios
+import operadores.aritmeticos
