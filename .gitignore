@@ -1,0 +1,5 @@
+### Arquivos e diretórios que serão ignorados pelo controle de versão (git) ###
+# Arquivos
+*.pyc
+# Diretórios
+**/__pycache__/
