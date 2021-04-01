@@ -32,3 +32,27 @@ print(nome[::2])
 print(nome[1::2])
 print(nome[::-1])
 print(nome[::-2])
+print()
+
+
+frase = 'Python é uma linguagem excelente'
+print('py' not in frase)
+print('ing' in frase)
+print(len(frase))
+print(frase.lower())
+print(frase.upper())
+print(frase.split())
+print(frase.split('a'))
+print()
+
+
+# Magic Methods
+a = '123'
+b = ' de oliveira 4'
+print(a + b)
+print(a.__add__(b))
+print(str.__add__(a, b))
+print(len(a))
+print(a.__len__())
+print('1' in a)
+print(a.__contains__('1'))
