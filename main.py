@@ -4,4 +4,6 @@
 # import pacote.sub.arquivo
 
 # import tipos.variaveis
-from tipos import variaveis, basicos
+#from tipos import variaveis, basicos
+
+import tipos.lista
