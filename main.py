@@ -4,8 +4,10 @@
 # import pacote.sub.arquivo
 
 # import tipos.variaveis
-#from tipos import variaveis, basicos
+# from tipos import variaveis, basicos
 # import tipos.lista
-#import tipos.tuplas
-#import tipos.conjuntos
-import tipos.dicionario
+# import tipos.tuplas
+# import tipos.conjuntos
+# import tipos.dicionario
+
+import operadores.unarios
