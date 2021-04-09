@@ -1,4 +1,3 @@
-
 aluno = {
     'nome': 'Pedro Henrique',
     'nota': 9.2,
@@ -11,7 +10,6 @@ print(aluno['nota'])
 print(aluno['ativo'])
 print(len(aluno))
 print()
-
 
 
 pessoa = {
@@ -37,7 +35,6 @@ print(pessoa.get('idade'))
 print(pessoa.get('tags'))
 print(pessoa.get('tags', []))
 print()
-
 
 
 pessoa = {

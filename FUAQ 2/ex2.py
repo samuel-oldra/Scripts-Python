@@ -4,15 +4,15 @@ seguir, o menor valor de cada coluna, num vetor VC[4]. No final, mostrar os
 valores contidos no vetor.
 '''
 
-val_linha = 3  # 100
-val_coluna = 4 # 4
+val_linha = 3   # 100
+val_coluna = 4  # 4
 matriz = []
 vc = []
 
 for x in range(0, val_linha):
     colunas = []
     for y in range(0, val_coluna):
-        valor = int(input(f'Digite o valor para a célula [{x + 1}, {y + 1}]: '))
+        valor = int(input(f'Digite o valor para a célula [{x + 1}, {y + 1}]:'))
         colunas.append(valor)
     matriz.append(colunas)
 

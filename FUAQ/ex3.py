@@ -1,6 +1,6 @@
-
 x = 0
 y = 0
+
 
 def ehPrimo(n):
     for count in range(2, n):
