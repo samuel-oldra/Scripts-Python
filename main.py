@@ -33,13 +33,13 @@
 # resultado = a + b
 # print(resultado)
 
-from funcoes import args
-
+# from funcoes import args
 # args.soma()
 # args.soma(1)
 # args.soma(1, 2, 3)
 # s = args.soma(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 # print(s)
+# resultado = args.resultado_final(nome='Pedro', nota=6.3)
+# print(resultado)
 
-resultado = args.resultado_final(nome='Pedro', nota=6.3)
-print(resultado)
+from funcoes import funcional
