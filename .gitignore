@@ -2,4 +2,5 @@
 # Arquivos
 *.pyc
 # Diretórios
+.idea/
 **/__pycache__/
