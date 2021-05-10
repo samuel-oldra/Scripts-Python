@@ -19,7 +19,6 @@ print(nomes)
 print()
 
 
-
 tupla = tuple()
 print(type(tupla))
 tupla = ()

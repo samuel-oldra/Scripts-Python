@@ -2,12 +2,13 @@ ex1 = '''
 1) Faça um algoritmo que lê valores para as variáveis A e B. Consistir para que
 B recebe obrigatoriamente um valor maior que A. Calcular e mostrar os fatoriais
 dos valores ímpares existentes entre A e B. Os cálculos de fatorial devem ser
-realizados dentro de uma função e os resultados mostrados no programa principal.
+realizados dentro de uma função e os resultados mostrados no prog. principal.
 No final, mostrar a média dos resultados dos fatoriais calculados.
 '''
 
 a = b = -1
 qtd = soma = 0
+
 
 def fatorial(n):
     fat = 1

@@ -1,4 +1,3 @@
-
 # x = 10
 #
 # while x:
@@ -17,5 +16,5 @@ while nota != -1:
         qtde += 1
         total += nota
 
-if qtde: # Evitar divisão por zero
+if qtde:  # Evitar divisão por zero
     print(f'A média da turma é {total / qtde}')

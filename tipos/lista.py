@@ -19,7 +19,6 @@ print(nums)
 print()
 
 
-
 # Mais sobre listas
 nova_lista = [1, 5, 'Ana', 'Bia']
 
@@ -43,7 +42,6 @@ print('Bia' in nova_lista)
 print('Pedro' not in nova_lista)
 print(nova_lista[-1])
 print()
-
 
 
 lista = ['Ana', 'Lia', 'Rui', 'Paulo', 'Dani']

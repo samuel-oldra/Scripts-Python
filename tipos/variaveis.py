@@ -14,6 +14,6 @@ print(3 * saudacao)
 PI = 3.14
 PI = 3.1415
 raio = float(input('Informe o raio da circ.? '))
-#print(type(raio))
+# print(type(raio))
 area = PI * pow(raio, 2)
 print(f'A área da circ é {area} m2')

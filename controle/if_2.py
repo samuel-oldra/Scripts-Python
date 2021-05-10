@@ -1,11 +1,11 @@
-a = 'valor' # True
-a = 0       # False
-a = -1      # True
-a = -0.0001 # True
-a = ''      # False
-a = ' '     # True
-a = []      # False
-a = {}      # False
+a = 'valor'  # True
+a = 0        # False
+a = -1       # True
+a = -0.0001  # True
+a = ''       # False
+a = ' '      # True
+a = []       # False
+a = {}       # False
 
 if a:
     print('Existe!!!')

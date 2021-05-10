@@ -4,10 +4,11 @@ de forma compactada, num vetor U[30] os valores pares contidos na matriz que
 possuírem fatorial maior que 1000 (hum mil).
 '''
 
-val_linha = 3  # 5
-val_coluna = 4 # 6
+val_linha = 3   # 5
+val_coluna = 4  # 6
 matriz = []
 vetor_u = []
+
 
 def fatorial(n):
     fat = 1
@@ -21,7 +22,7 @@ def fatorial(n):
 for x in range(0, val_linha):
     colunas = []
     for y in range(0, val_coluna):
-        valor = int(input(f'Digite o valor para a célula [{x + 1}, {y + 1}]: '))
+        valor = int(input(f'Digite o valor para a célula [{x + 1}, {y + 1}]:'))
         colunas.append(valor)
     matriz.append(colunas)
 
