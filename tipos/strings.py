@@ -2,7 +2,7 @@ nome = 'Samuel-Oldra'
 
 print(nome[0])
 # nome[0] = 'T'
-print('marca d\'água') # escape
+print('marca d\'água')  # escape
 print('marca d\'água' == "marca d'água")
 
 doc = """

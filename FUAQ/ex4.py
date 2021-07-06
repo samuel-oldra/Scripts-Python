@@ -1,6 +1,6 @@
-
 qtd = 0
 inicial = 100
+
 
 def ehPerfeito(n):
     soma = 0
